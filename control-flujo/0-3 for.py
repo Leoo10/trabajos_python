@@ -1,4 +1,4 @@
-buscar = 10
+buscar = 6
 for numero in range(5):
     print(numero)
     if numero == buscar:
